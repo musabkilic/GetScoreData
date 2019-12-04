@@ -1,5 +1,4 @@
 extern crate reqwest;
-extern crate json;
 extern crate scraper;
 
 use std::io::Read;
